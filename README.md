@@ -10,6 +10,44 @@ https://drive.google.com/file/d/1guLmUq9JGBl-ZnYPmXQuPS4H4DQywVQM/view?usp=shari
 https://drive.google.com/file/d/1xN-zu3-1tyjinTf8ApgFrb_xW4ZdhUGX/view?usp=sharing  
 **Download the video for better experience**
 
+## Contributors
+1. Karnika Soni
+2. Krishna Tej Bhat
+3. Sachintha Imindhu
+4. Saisravani Kuchibhotla
+5. Yash Narain Agarwal
+
+## Application Images
+
+![alt text](images/Screenshot%202020-12-06%20at%202.34.01%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.35.36%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.38.13%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.40.00%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.40.33%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.40.50%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.41.12%20PM.png)
+![alt text](images/Screenshot%202020-12-06%20at%202.41.33%20PM.png)
+
+## Instructions to run the application
+
+- **Initial Port Number:** 4242  
+- **Initial Address:** localhost
+
+### Step 1
+- Open IntelliJ and properly clone the repository. Check all files are loaded into their specific directories.
+ 
+### Step 2
+- Run the `Server.java` class.
+
+### Step 3
+- Edit the configurations of the `Welcome.java` Class to allow **Parallel Run**
+
+### Step 4
+- Run the `Welcome.java` class. Each run starts an independent client.
+
+### Step 5
+- Enjoy the App and interact real-time with all your friends. Thank you!
+
 ## Class & File Documentation
 ### GUI Structure
 All the GUI classes are divided into several separate methods  and the ones below are common for most GUI classes.    
@@ -509,21 +547,3 @@ All the GUI classes are divided into several separate methods  and the ones belo
 |   Change Password   | Opens a window where you can change your password with the correct input and validation |
 |      Logout         | Signs you out of your account and closes the application |
 |      Delete         | Opens a window to confirm you password. On successful validation, removes your account and your entire history from the database |
-
-## Application Images
-
-![alt text](images/Screenshot%202020-12-06%20at%202.34.01%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.35.36%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.38.13%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.40.00%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.40.33%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.40.50%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.41.12%20PM.png)
-![alt text](images/Screenshot%202020-12-06%20at%202.41.33%20PM.png)
-
-## Contributors
-1. Karnika Soni
-2. Krishna Tej Bhat
-3. Sachintha Imindhu
-4. Saisravani Kuchibhotla
-5. Yash Narain Agarwal
