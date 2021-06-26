@@ -11,11 +11,11 @@ https://drive.google.com/file/d/1xN-zu3-1tyjinTf8ApgFrb_xW4ZdhUGX/view?usp=shari
 **Download the video for better experience**
 
 ## Contributors
-1. Karnika Soni
-2. Krishna Tej Bhat
-3. Sachintha Imindhu
-4. Saisravani Kuchibhotla
-5. Yash Narain Agarwal
+1. Yash Narain Agarwal
+2. Karnika Soni
+3. Krishna Tej Bhat
+4. Sachintha Imindhu
+5. Saisravani Kuchibhotla
 
 ## Application Images
 
