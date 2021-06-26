@@ -3,9 +3,6 @@
 ## About
 Friendzone is one-of-a-kind Java application that allows endless number of users to interact and connect with each other. Users can create their accounts and can find other people of similar interests by viewing their profiles. The users can also customize their own profiles and make them attractive by including their hobbies, interests, and tell everyone about themselves. Furthermore, in this application, users can send requests to other people and connect with them, increasing their reach and widening their social circle. And you can come in and go out at your leisure – the application will remember until you delete your account. Hence, we urge you to use our FriendZone App.
  
-## Project Report
-https://drive.google.com/file/d/1guLmUq9JGBl-ZnYPmXQuPS4H4DQywVQM/view?usp=sharing  
- 
 ## Presentation
 https://drive.google.com/file/d/1xN-zu3-1tyjinTf8ApgFrb_xW4ZdhUGX/view?usp=sharing  
 **Download the video for better experience**
